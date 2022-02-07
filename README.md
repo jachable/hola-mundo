@@ -1,4 +1,4 @@
-# hola-mundo
+# Hola Mundo
 Mi repositorio de prueba
 
 Autor: Alberto C.
